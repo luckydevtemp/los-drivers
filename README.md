@@ -1,15 +1,12 @@
 # LOS-Drivers #
 **Repositório principal de drivers do Projeto LOS**
 
-Este repositório será usado para a implementação dos drivers de dispositivos do Projeto LOS.
+Este repositório é um submódulo do projeto LOS e será usado para a implementação dos drivers de dispositivos.
 
-```
-Para um correto funcionamento, este repositório deve estar localizado no diretório:
-
-	.../LuckyOS/src/drivers
-```
+***Não é necessário que o mesmo seja obtido individualmente.***
 
 ## Revisões ##
 
+* **build-002:** Reorganização da estrutura
 * **build-001:** Para implementação de *kernel.006*
 * **build-000:** Para implementação de *kernel.004*
